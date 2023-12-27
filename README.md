@@ -1,18 +1,17 @@
+<div align="center">
+  <img align="right" alt="Waving" width="300px" height:"200px" src="https://github.com/xr-lim/xr-lim/blob/main/monitors-typing.gif">
 
-<img align="right" alt="Waving" width=250px src="![image](https://github.com/xr-lim/xr-lim/assets/133843320/c3ad250d-d66a-491a-8563-b813445835fc)
-">
-<div id="header" align="left">
-  <h1 style="font-size: 150px;"><b> Hi there, I'm Xin Rou ☾⋆⁺₊🎧ִ໋🌷͙ </b></h1>
- <p style="text-align: justify;"> 
-    <strong>🚀 Hello, World! I'm on an exciting coding adventure!</strong><br>
-    Greetings from Universiti Teknologi Malaysia (UTM)! I'm currently navigating my way through the fascinating world of software engineering as a first-year student. 🎓<br>
-    As a tech enthusiast in the making, I'm fueled by an insatiable curiosity, always hungry to learn and dive into the complexities of the digital realm. My mission? To harness the power of code to unravel and solve real-world problems, one line at a time.<br>
-    I see myself as an ordinary individual with an extraordinary dream — contributing meaningfully to society through my coding endeavors. Despite being an introvert, my mind is a playground for funky ideas that I can't wait to bring to life through the magic of programming.<br>
-    I thrive on the delightful challenges that coding presents, finding joy in the dance between creativity and logical thinking. In my personal dictionary, the term "give up" is non-existent. I'm on an unwavering journey in this vast and awesome industry, where every obstacle is a stepping stone to greater heights. Let's code the future together! 💻✨
-</p>
+  # Hi there, I'm Xin Rou ☾⋆⁺₊🎧ִ໋🌷
+
+  **🚀 Hello, World! I'm on an exciting coding adventure!**
+
+  Greetings from Universiti Teknologi Malaysia (UTM)! I'm currently exploring the captivating world of software engineering as a first-year student. 🎓 As a budding tech enthusiast, I'm driven by boundless curiosity, always eager to unravel the intricacies of the digital realm. My mission? To wield code in solving real-world problems, one line at a time. Despite being an introvert, my mind is a hub of creative ideas waiting to be brought to life through programming magic. I thrive on the challenges of coding, finding joy in the dance between creativity and logic. In my dictionary, "give up" is nonexistent. Join me on this unwavering journey in the vast and awesome tech industry. Let's code the future together! 💻✨
 </div>
+
 <br>
 <br>
+
+
 
 ### :woman_technologist: About Me :
 - 📆 21/10/2004
@@ -23,7 +22,6 @@
 
 <br>
 
-### 🏅 Achievements :
 
 
 ### :hammer_and_wrench: Languages and Tools :
