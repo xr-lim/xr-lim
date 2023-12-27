@@ -41,7 +41,7 @@
 ![xr-lim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xr-lim&theme=default&hide_border=false)
 
 
-### :💬Languages:
+### ☁️Languages:
 - ENGLISH
 - CHINESE
 - MALAY
