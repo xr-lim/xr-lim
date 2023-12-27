@@ -19,7 +19,7 @@
 - 👯 I’m currently studying at University Technology Malaysia (UTM)
 - ⚡ In my free time, I sleep 😴
 - 💬 Stay curious and diligent ☘️
-- 📫 How to reach me: <a href="mailto:xinroulim@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-xinroulim@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xinroulim@graduate.utm.my.com"></a>
+- 📫 How to reach me: <a href="mailto:xinroulim@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-xinroulim@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xinroulim@graduate.utm.my.com"></a> <a href="https://www.linkedin.com/in/xr-lim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-xinroulim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xr-lim/"></a>
 
 <br>
 
