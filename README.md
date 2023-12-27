@@ -5,7 +5,7 @@
 
   **🚀 Hello, World! I'm on an exciting coding adventure!**
 
-  Greetings from Universiti Teknologi Malaysia (UTM)! I'm currently exploring the captivating world of software engineering as a first-year student. 🎓 As a budding tech enthusiast, I'm driven by boundless curiosity, always eager to unravel the intricacies of the digital realm. My mission? To wield code in solving real-world problems, one line at a time. Despite being an introvert, my mind is a hub of creative ideas waiting to be brought to life through programming magic. I thrive on the challenges of coding, finding joy in the dance between creativity and logic. In my dictionary, "give up" is nonexistent. Join me on this unwavering journey in the vast and awesome tech industry. Let's code the future together! 💻✨
+  Greetings from UTM! I'm delving into the world of software engineering as a first-year student. 🎓 As a tech enthusiast, I'm fueled by curiosity, aiming to solve real-world problems with code. Despite being an introvert, my creative mind thrives on the challenges of coding.  In my dictionary, "give up" is nonexistent. Join me on this unwavering journey in the vast tech industry.  💻✨
 </div>
 
 <br>
@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="cpp" **alt="cpp" width="40" height="40"/>&nbsp;
 
 </div>
 
