@@ -1,6 +1,7 @@
 <div align="center">
   <img align="right" alt="Waving" width="300px" height:"200px" src="https://github.com/xr-lim/xr-lim/blob/main/monitors-typing.gif">
-
+<br>
+  
   # Hi there, I'm Xin Rou ☾⋆⁺₊🎧ִ໋🌷
 
   **🚀 Hello, World! I'm on an exciting coding adventure!**
