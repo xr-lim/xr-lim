@@ -6,7 +6,7 @@
 
   **🚀 Hello, World! I'm on an exciting coding adventure!**
 
-  Greetings from UTM! I'm delving into the world of software engineering as a first-year student. 🎓 As a tech enthusiast, I'm fueled by curiosity, aiming to solve real-world problems with code. Despite being an introvert, my creative mind thrives on the challenges of coding.  In my dictionary, "give up" is nonexistent. Join me on this unwavering journey in the vast tech industry.  💻✨
+  Greetings from UTM! I'm delving into the world of software engineering as a second-year student. 🎓 As a tech enthusiast, I'm fueled by curiosity, aiming to solve real-world problems with code. Despite being an introvert, my creative mind thrives on the challenges of coding.  In my dictionary, "give up" is nonexistent. Join me on this unwavering journey in the vast tech industry.  💻✨
 </div>
 
 <br>
